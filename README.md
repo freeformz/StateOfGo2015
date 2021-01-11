@@ -1,6 +1,6 @@
 ## State of Go 2015 Survey Results
 
-This is the *almost* raw data from the State of Go Survey.
+This is the *almost* raw data from the State of Go 2015 Survey.
 
 I've made a best effort attempt to go through the results and strip out any personally identifying information.
 
